@@ -1,4 +1,3 @@
-# D_devbuild
 MIT License
 
 Copyright (c) 2021 John Nguyen
